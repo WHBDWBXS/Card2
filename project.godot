@@ -1,0 +1,10 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="Card2 Survivor"
+run/main_scene="res://Scenes/Main.tscn"
+config/features=PackedStringArray("4.2", "C#")
+
+[dotnet]
+project/assembly_name="Card2"
